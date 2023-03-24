@@ -3,6 +3,7 @@ package com.mycompany.simulacion;
 public class Simulacion {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Prueba1 p1 = new Prueba1();
+        p1.login();
     }
 }
